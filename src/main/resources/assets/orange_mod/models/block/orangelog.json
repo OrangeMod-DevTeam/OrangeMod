@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "orange_mod:blocks/orange_log_top",
+    "up": "orange_mod:blocks/orange_log_top",
+    "north": "orange_mod:blocks/orange_log_side",
+    "east": "orange_mod:blocks/orange_log_side",
+    "south": "orange_mod:blocks/orange_log_side",
+    "west": "orange_mod:blocks/orange_log_side",
+    "particle": "orange_mod:blocks/orange_log_top"
+  }
+}

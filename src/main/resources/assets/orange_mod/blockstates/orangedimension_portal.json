@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "orange_mod:orangedimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "orange_mod:orangedimension_portal_ns"
+    },
+    "inventory": {
+      "model": "orange_mod:orangedimension_portal_ns"
+    }
+  }
+}

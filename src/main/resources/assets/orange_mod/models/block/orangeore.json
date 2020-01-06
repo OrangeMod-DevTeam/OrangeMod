@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "orange_mod:blocks/orange_ore",
+    "up": "orange_mod:blocks/orange_ore",
+    "north": "orange_mod:blocks/orange_ore",
+    "east": "orange_mod:blocks/orange_ore",
+    "south": "orange_mod:blocks/orange_ore",
+    "west": "orange_mod:blocks/orange_ore",
+    "particle": "orange_mod:blocks/orange_ore"
+  }
+}

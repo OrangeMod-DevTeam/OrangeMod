@@ -1,0 +1,20 @@
+{
+  "group": "orange_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "orange_mod:orangeingot"
+    },
+    "3": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "orange_mod:orangeflintandsteel",
+    "count": 1
+  }
+}

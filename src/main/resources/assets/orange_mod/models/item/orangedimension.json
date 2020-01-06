@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "orange_mod:items/orange_flint_and_steel"
+  }
+}

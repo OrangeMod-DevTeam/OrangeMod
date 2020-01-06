@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "orange_mod:items/orange-pickaxe"
+  }
+}
